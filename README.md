@@ -1,8 +1,8 @@
 Kulana Svitlynych
 
 Home
-[	Home - Projects visible		]		(	Home - Projects visible		)
-[	Ukraininan letters		]		(	Ukraininan letters		)
+[Home - Projects visible]		(	Home - Projects visible		)
+[Ukraininan letters]		(	Ukraininan letters		)
 [	Talking T-Shirts version 1		]		(	Talking T-Shirts version 1		)
 [	Talking T-Shirts version 2		]		(	Talking T-Shirts version 2		)
 [	Calling home		]		(	Calling home		)
