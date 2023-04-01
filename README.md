@@ -3,7 +3,7 @@ KulanaSvitlynych
 Home
 [Home-Projectsvisible](Home-Projectsvisible)
 
-[Ukraininanletters](Ukraininan_letters.md)
+[Ukraininanletters](/kulana-svitlynych/Ukraininan_letters.md)
 
 [TalkingT-Shirtsversion1](TalkingT-Shirtsversion1)
 [TalkingT-Shirtsversion2](TalkingT-Shirtsversion2)
