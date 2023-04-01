@@ -1,0 +1,9 @@
+# Site settings
+title: kulana-svitlynych
+author: kulana svitlynych
+  name: kulana svitlynych
+  email: kulana.svitlynych@gmail.com
+description: "kulana-svitlynych"
+
+# Build settings
+remote_theme: jekyll/minima
