@@ -5,21 +5,21 @@
 
 [Home-Projectsvisible](Home-Projectsvisible)
 
-[Ukraininanletters](Ukrainian_letters)
+[Ukraininan letters](Ukrainian_letters)
 
-[TalkingT-Shirtsversion1](TalkingT-Shirtsversion1)
+[Talking T-Shirts version1](TalkingT-Shirtsversion1)
 
-[TalkingT-Shirtsversion2](TalkingT-Shirtsversion2)
+[Talking T-Shirts version2](TalkingT-Shirtsversion2)
 
 [Callinghome](Callinghome)
 
-[Electonicsdreams](Electonicsdreams)
+[Electonics dreams](Electonicsdreams)
 
 [Attentionscape](Attentionscape)
 
-[DrawbotRobot](DrawbotRobot)
+[Drawbot Robot](DrawbotRobot)
 
-[PoetryProtectiveSuit](PoetryProtectiveSuit)
+[Poetry Protective Suit](PoetryProtectiveSuit)
 
 [About](About)
 
